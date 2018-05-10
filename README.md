@@ -1,4 +1,4 @@
-# plaid-ruby [![Circle CI](https://circleci.com/gh/plaid/plaid-ruby.svg?style=svg&circle-token=30ee002ac2021da5b5b5a701d45fe2888af124a5)](https://circleci.com/gh/plaid/plaid-ruby) [![Gem Version](https://badge.fury.io/rb/plaid.svg)](http://badge.fury.io/rb/plaid)
+# plaid-ruby [![Circle CI](https://circleci.com/gh/plaid/plaid-ruby.svg?style=svg&circle-token=30ee002ac2021da5b5b5a701d45fe2888af124a5)](https://circleci.com/gh/plaid/  plaid-ruby) [![Gem Version](https://badge.fury.io/rb/plaid.svg)](http://badge.fury.io/rb/plaid)
 
 The official Ruby bindings for the [Plaid API](https://plaid.com/docs).
 
@@ -224,3 +224,4 @@ The gem is available as open source under the terms of the [MIT License](http://
 
 [1]: https://blog.plaid.com/improving-our-api/
 [2]: https://github.com/plaid/plaid-ruby-legacy
+ 
